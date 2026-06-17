@@ -1,0 +1,3 @@
+As I stated in my report :
+
+Important Note : When I tried the program to run in Ubuntu for ‘java StockDataManager filename’ command it somehow does not read the lines in files containing ADD XYZ ‘25.50’ 1000000 5000000 instead of that it reads it when the double has comma between them like ADD XYZ ‘25,50’ 1000000 5000000.I am not sure what is the reason behind it and maybe it is because of the Ubuntu version of mine.However it works without any problem when it is run with 'make' command.

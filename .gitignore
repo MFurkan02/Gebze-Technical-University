@@ -1,0 +1,46 @@
+# ==========================================
+# Gebze Technical University - .gitignore
+# ==========================================
+
+# --- C / C++ Derleme Çıktıları ---
+*.o
+*.obj
+*.out
+*.exe
+*.gch
+Makefile.in
+CMakeCache.txt
+CMakeFiles/
+CMakeSettings.json
+
+# --- Java Derleme ve IDE Çıktıları ---
+*.class
+*.jar
+*.war
+javadoc/
+.metadata/
+.classpath
+.project
+.settings/
+*.factorypath
+
+# --- Python ve Veri Madenciliği (Data Mining) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+venv/
+ENV/
+
+# --- İşletim Sistemleri ve Sistem Dosyaları (OS Junk) ---
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# --- IDE ve Editör Ayarları (VS Code, CLion, IntelliJ) ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

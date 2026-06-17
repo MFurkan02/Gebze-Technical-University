@@ -1,0 +1,13 @@
+Electronic Shops Inventory Report
+Generated on : 25th March 2024
+----------------------------------------------------------
+| No. | Category       |      Name              |   Price  | Quantity |
+----------------------------------------------------------
+|  1  |  Laptop        |  Dell XPS 13   | $1200.0 | 50   |
+|  2  |  TV            |  LG OLED55     | $800.0 | 30   |
+|  3  |  Headphones    |   Sony WH-1000XM4  | $250.0 | 100  |
+----------------------------------------------------------
+Summary:
+- Total Number of Devies :          3
+- Total Inventory Value  :         $109000.0
+End of Report

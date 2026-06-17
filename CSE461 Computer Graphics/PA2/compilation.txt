@@ -1,0 +1,4 @@
+-- compilation --
+make clean
+make
+./openGL

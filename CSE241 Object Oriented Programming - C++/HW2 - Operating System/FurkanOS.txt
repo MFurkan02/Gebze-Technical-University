@@ -1,0 +1,8 @@
+D mydir     Jan 06 20:40
+F file1     Jan 06 20:43 15425bytes contentoffile1
+F file2     Jan 06 20:44 15945bytes contentoffile2
+D mydir2    Jan 06 20:46
+F file3     Jan 06 20:47 15945bytes contentoffile3
+D mydir3    Jan 06 20:48
+F someFile  Jan 06 20:50 19625bytes contentofsomefile
+D mydir4    Jan 06 20:52

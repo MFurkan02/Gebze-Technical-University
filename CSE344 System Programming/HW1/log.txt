@@ -1,0 +1,26 @@
+[Sat Mar 22 18:38:15 2025] Directory 'testDir' created successfully.
+[Sat Mar 22 18:40:27 2025] File 'testDir/example.txt' created successfully.
+[Sat Mar 22 18:41:09 2025] Content 'Hello, World!' is appended to file 'testDir/example.txt' .
+[Sat Mar 22 18:43:28 2025] Content 'New Line' is appended to file 'testDir/example.txt' .
+[Sat Mar 22 18:46:22 2025] File 'testDir/example.txt' deleted successfully.
+[Sat Mar 22 18:50:31 2025] File 'new.txt' created successfully.
+[Sat Mar 22 18:50:38 2025] Directory 'new_dir' created successfully.
+[Sat Mar 22 18:50:44 2025] Directory 'new_dir' deleted successfully.
+[Sat Mar 22 18:50:54 2025] Directory 'testDir' deleted successfully.
+[Sat Mar 22 18:51:34 2025] Content 'TRIAL 1 2 3' is appended to file 'new.txt' .
+[Sun Mar 23 17:09:41 2025] Directory 'testDir2' created successfully.
+[Sun Mar 23 17:10:15 2025] File 'testDir2/cse.txt' created successfully.
+[Sun Mar 23 17:10:41 2025] File 'testDir2/cse.txt' deleted successfully.
+[Sun Mar 23 17:10:45 2025] Directory 'testDir2' deleted successfully.
+[Sun Mar 23 17:19:13 2025] File 'new.txt' deleted successfully.
+[Sun Mar 23 17:25:39 2025] Directory 'testDir' created successfully.
+[Sun Mar 23 18:06:48 2025] File 'testDir/d.txt' created successfully.
+[Sun Mar 23 18:08:11 2025] Content 'DENEME123' is appended to file 'testDir/d.txt' .
+[Sun Mar 23 18:09:20 2025] File 'testDir/d.txt' deleted successfully.
+[Sun Mar 23 18:09:27 2025] Directory 'testDir' deleted successfully.
+[Sun Mar 23 18:14:21 2025] Directory 'new' created successfully.
+[Sun Mar 23 18:14:43 2025] File 'new/dnm.x' created successfully.
+[Sun Mar 23 18:15:53 2025] Content 'HELLO TR' is appended to file 'new/dnm.x' .
+[Sun Mar 23 18:16:27 2025] File 'new/dnm.x' deleted successfully.
+[Sun Mar 23 18:16:32 2025] Directory 'new' deleted successfully.
+[Sun Mar 23 18:17:28 2025] Directory 'testDir' created successfully.

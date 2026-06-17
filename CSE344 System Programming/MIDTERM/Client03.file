@@ -1,0 +1,5 @@
+N deposit 2000
+BankID_02 deposit 200
+BankID_02 withdraw 300
+N deposit 245
+BankID_cse344 withdraw 20

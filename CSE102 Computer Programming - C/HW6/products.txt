@@ -1,0 +1,7 @@
+pID,Type,Name,Brand,Price
+1,D,Ayran,Sutas,23.99
+2,F,Salca,Olca,56.80
+3,F,Phone,Oppo,4399.99
+4,O,Console,PS,6799.99
+5,O,Phone,Apple,8799.99
+6,D,Tea,Berk,38.99
