@@ -55,6 +55,3 @@ The repository is structured semantically based on the GTU Department of Compute
 #### CSE454 - Data Mining
 * **Language/Stack:** Python / NumPy, Pandas, Multiprocessing, Matplotlib, Mlxtend (Benchmark Only)
 * **Focus:** Scalable pattern mining and transactional business intelligence. Built completely **from-scratch BFS (Apriori) and DFS tree-structured (FP-Growth)** pattern mining engines using raw data pointers, hash-maps, and custom data-chunk workers to bypass Python's Global Interpreter Lock (GIL). Designed mathematical rules engines evaluating **Support, Confidence, Lift, and Leverage**, paired with low-level runtime heap profiling (`tracemalloc`) and a statistical filter to systematically isolate and reject spurious coincidental correlations. Includes a transactional reverse-logistics sub-system tracking co-returned "toxic" product bundles.
-
->>>>>>> c09d398 (docs: add and structure deployment READMEs for root, DIP, and Data Mining modules)
-
